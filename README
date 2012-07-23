@@ -1,0 +1,6 @@
+This is an example setup to configure a Debian Squeeze Ubuntu installation
+using Vagrant's Shell provisioner. The scripts are borrowed from github repos, 
+in particular Stan Angeloff's vagrant-shell-scripts:
+https://github.com/StanAngeloff/vagrant-shell-scripts
+
+
