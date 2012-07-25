@@ -28,7 +28,11 @@ apt-packages-install     \
   aspell-es              \
   imagemagick            \
   texlive                \
-  texlive-xetex
+  texlive-xetex          \
+  git                    \
+  libxml2-dev            \
+  libxslt1-dev           \
+  libmysqlclient15-dev
 
 #  git-core               \ this works, but we don't need git on the VM
 
@@ -48,3 +52,4 @@ mysql-restart
 #rvm --create use ree-1.8.7-2010.02@democracynow.org
 
 gem install bundler
+export PATH=/var/lib/gems/1.8/bin/:${PATH}
