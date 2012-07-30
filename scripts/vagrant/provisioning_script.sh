@@ -27,6 +27,8 @@ apt-packages-install     \
   aspell                 \
   aspell-es              \
   imagemagick            \
+  librmagick-ruby        \
+  libmagick9-dev         \
   texlive                \
   texlive-xetex          \
   git                    \
