@@ -25,6 +25,7 @@ apt-packages-install     \
   sphinxsearch           \
   ffmpeg                 \
   aspell                 \
+  aspell-en              \
   aspell-es              \
   imagemagick            \
   librmagick-ruby        \
